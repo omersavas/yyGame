@@ -1,0 +1,10 @@
+C:\Users\ÖMER\source\repos\YazilimYapimiOyun\YazilimYapimiOyun\bin\Debug\YazilimYapimiOyun.exe.config
+C:\Users\ÖMER\source\repos\YazilimYapimiOyun\YazilimYapimiOyun\bin\Debug\YazilimYapimiOyun.exe
+C:\Users\ÖMER\source\repos\YazilimYapimiOyun\YazilimYapimiOyun\bin\Debug\YazilimYapimiOyun.pdb
+C:\Users\ÖMER\source\repos\YazilimYapimiOyun\YazilimYapimiOyun\obj\Debug\YazilimYapimiOyun.csprojResolveAssemblyReference.cache
+C:\Users\ÖMER\source\repos\YazilimYapimiOyun\YazilimYapimiOyun\obj\Debug\YazilimYapimiOyun.Form1.resources
+C:\Users\ÖMER\source\repos\YazilimYapimiOyun\YazilimYapimiOyun\obj\Debug\YazilimYapimiOyun.Properties.Resources.resources
+C:\Users\ÖMER\source\repos\YazilimYapimiOyun\YazilimYapimiOyun\obj\Debug\YazilimYapimiOyun.csproj.GenerateResource.Cache
+C:\Users\ÖMER\source\repos\YazilimYapimiOyun\YazilimYapimiOyun\obj\Debug\YazilimYapimiOyun.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER\source\repos\YazilimYapimiOyun\YazilimYapimiOyun\obj\Debug\YazilimYapimiOyun.exe
+C:\Users\ÖMER\source\repos\YazilimYapimiOyun\YazilimYapimiOyun\obj\Debug\YazilimYapimiOyun.pdb
