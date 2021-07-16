@@ -1,1 +1,1 @@
-# Yaz-l-mYap-m-Oyun
+# Yazılım yapımı dersi ödev oyunu.
